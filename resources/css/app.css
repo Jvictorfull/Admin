@@ -1,0 +1,9 @@
+hearder { 
+    background-color: aqua;
+  list-style: none;
+padding: 8px;
+display:flex;
+justify-content: space-between;
+align-items: center;
+width: 100%;
+}
